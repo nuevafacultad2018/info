@@ -1,0 +1,22 @@
+body{
+    background-color: #f9f9f9;
+}
+
+header{
+    height: 60px;
+    background-color: #990101;
+}
+
+footer{
+    height: 90px;
+    background-color: #474747;
+}
+
+.intro-video{
+    background-color: darkred;
+    padding: 40px;
+}
+
+.intro-video iframe{
+    box-shadow: 0px 6px 107px -7px white;
+}
