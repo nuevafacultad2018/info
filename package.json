@@ -1,0 +1,14 @@
+{
+  "name": "nueva-facultad-2018",
+  "version": "1.0.0",
+  "description": "Pagina oficial NUEVA FACULTAD 2018",
+  "main": "index.html",
+  "repository": "https://github.com/nuevafacultad2018/info.git",
+  "author": "Ricardo <ricky6982@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "animate.css": "^3.6.1",
+    "bootstrap": "4.0.0",
+    "jquery": "^3.3.1"
+  }
+}
